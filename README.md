@@ -19,10 +19,5 @@ O código controla a rotação dos motores com base nas leituras dos sensores. Q
 - Um potenciômetro pode ser adicionado para ajustar a velocidade dos motores.
 - O controle é feito por um código em **C++**, rodando no Arduino, simulado no **Thinkercad**.
 
-## 📸 Imagem do Projeto
-  
-![Carrinho Seguidor de Linha](https://github.com/seuusuario/seurepositorio/blob/main/robo%20seguidor%20de%20linha.png?raw=true)
-
-
 ## 📂 Arquivos
 - `main.ino` → Código principal do projeto em C++.
